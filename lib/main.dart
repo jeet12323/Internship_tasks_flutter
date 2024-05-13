@@ -4,7 +4,9 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:internship_task1/loginPage.dart';
+import 'package:internship_task1/splashScreen.dart';
 import 'package:internship_task1/taskSelectionPage.dart';
+import 'package:internship_task1/task_3.dart';
 import 'package:internship_task1/task_5.dart';
 import 'package:internship_task1/task_6.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -36,6 +38,8 @@ class MyApp extends StatelessWidget {
         '/': (context) => MyHomePage(title: 'Flutter Demo Home Page'),
         '/login': (context) => Login(),
         '/taskSelection':(context)=>TaskSelectionPage(),
+        '/splash':(context)=>SplashScreen(),
+
         '/task4': (context) => Task_4(),
         '/task5': (context) => Task_5(),
         '/task6': (context) => task_6(),

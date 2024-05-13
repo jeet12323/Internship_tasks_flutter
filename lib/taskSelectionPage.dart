@@ -16,7 +16,7 @@ class TaskSelectionPage extends StatelessWidget {
           children: [
             TaskButton(
               title: 'Task 3',
-              routeName: '/task3',
+              routeName: '/splash',
             ),
             TaskButton(
               title: 'Task 4',
