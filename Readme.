@@ -1,0 +1,98 @@
+Week1
+In my first week at Crown Software, I focused on initial onboarding and foundational tasks. I 
+dedicated a half-day on Monday to Wednesday to develop the login page using Flutter and 
+implemented a continuous internet connection check to ensure the app's reliability. I fetched data 
+using GET API in Flutter on Friday, which marked the beginning of integrating backend services 
+with the app.
+● Developed a Login Page in Flutter.
+● Implemented continuous internet connection check.
+● Fetched data using GET API in Flutter.
+
+Week2
+This week was dedicated to refining the app's splash screen and configuring the final project 
+setup. Significant efforts were made to optimize the splash screen's load time and ensure efficient 
+initialization processes. Additionally, the project environment was set up, including configuring 
+the SDK and addressing initial errors that arose during setup. Debugging and performance 
+improvements were key focuses.
+Detailed Activities:
+● Implemented splash screen optimizations and enhanced performance
+● Set up the final project structure and initialized the Flutter project.
+● Configured SDK and project files for the live project.
+● Addressed and resolved initial project setup errors.
+● Conducted thorough debugging and testing of splash screen enhancements.
+
+
+
+Week3:
+This week focused on improving the complaint module by adding new features and resolving 
+existing issues. Efforts were directed towards integrating notification functionalities, enabling 
+commenting on complaint acceptance, and troubleshooting various bugs and UI problems. The 
+work also included testing and refining user interaction components to enhance overall 
+application performance.
+Detailed Activities:
+• Implemented notification functionality for student complaints and added commenting 
+features upon complaint acceptance.
+• Fixed bugs and issues within the complaint module.
+• Addressed and resolved image issues related to the parent module.
+• Tested and refined the complaint admin module for better functionality.
+• Improved UI elements, including color adjustments and placement issues.
+
+
+Week4:
+This week was dedicated to the development and refinement of the asset module, including 
+functionalities for adding, modifying, and managing hostel assets. Collaborations on the light 
+bill API integration and other project features were also completed. Emphasis was placed on 
+thorough testing to ensure the asset module's stability and functionality, leading up to the final 
+project presentation.
+Detailed Activities:
+• Developed the asset module with functionalities for adding, modifying, and assigning hostel 
+assets.
+• Completed integration with the light bill API and other project features.
+• Conducted comprehensive testing and finalization of the asset module.
+• Reviewed and finalized project features, including thorough debugging and resolving 
+issues.
+• Documented project work and prepared for the final project presentation.
+
+
+
+Week5:
+This week was dedicated to resolving critical bugs and performing final optimizations to ensure 
+the project’s stability and performance. Major efforts included fixing critical issues, enhancing 
+functionalities, and finalizing the project for handover. Attention was given to addressing any 
+outstanding issues and preparing comprehensive documentation for the project.
+Detailed Activities:
+• Addressed and resolved critical bugs across various modules.
+• Performed final optimizations and refinements to improve application performance.
+• Ensured all functionalities were working seamlessly and resolved any remaining issues.
+• Finalized project documentation and prepared for handover.
+• Conducted final testing and debugging to ensure overall project stability.
+
+
+
+Week6:
+The focus this week was on addressing and fixing critical bugs reported during testing. Efforts 
+were directed towards refining the user interface, improving functionality, and resolving various 
+issues to ensure a smooth user experience. Additional work included final checks and 
+adjustments based on testing outcomes.
+Detailed Activities:
+• Resolved critical bugs and issues reported from testing.
+• Refined user interface elements and improved overall functionality.
+• Conducted additional debugging and testing to ensure application stability.
+• Made final adjustments and optimizations based on user feedback.
+• Completed final checks to ensure all functionalities were working as expected
+
+
+
+Week7:
+The week was primarily spent on resolving a range of issues from critical bugs to minor UI 
+improvements. Several bugs were fixed, including issues related to notifications, profile 
+management, and leave functionalities. UI enhancements were made to improve the overall 
+user experience and address feedback from testing.
+Detailed Activities:
+• Fixed critical bugs related to token creation, pop-ups, and data fetching.
+• Addressed issues with notifications, profile pages, and leave application functionalities.
+• Made UI enhancements including color changes, button placements, and error handling.
+• Worked on functionality improvements for asset management and student profiles.
+• Ensured overall stability and usability of the app through thorough testing and debugging.
+
+
