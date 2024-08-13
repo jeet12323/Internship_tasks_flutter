@@ -1,7 +1,7 @@
 # internship_task1
 
 A new Flutter project.
-
+I have created Readme. file in this folder which is below this file for interhsip tasks since it was live project and i havent include my project code in this repository i have only uploaded very few demo tasks in this repo
 ## Getting Started
 
 This project is a starting point for a Flutter application.
